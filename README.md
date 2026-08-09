@@ -1,4 +1,4 @@
-## Walk your own path, let others be disappointed and unhappy however they please⚡ 
+## Study Hard, Work Hard ⚡ 
 
 <!--
 **phathsopheakmeangkuol2007-netizen/phathsopheakmeangkuol2007-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

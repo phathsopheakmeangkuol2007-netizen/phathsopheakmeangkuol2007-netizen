@@ -16,6 +16,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=c,python,linux,git,github,bash)
 
+---
+
 **Networking & Security Tools**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -24,8 +26,11 @@
 ![Nessus](https://img.shields.io/badge/Nessus-00843D?style=for-the-badge&logo=tenable&logoColor=white)
 ![Network Fundamentals](https://img.shields.io/badge/Network%20Fundamentals-4B0082?style=for-the-badge&logo=cisco&logoColor=white)
 
+---
+
 **Workflow**
 
 ![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white)
 
 ---
+

@@ -10,7 +10,6 @@
 
 <div align="center">
 
-🔭 I’m currently working on **a marketplace**
 
 🌱 I’m currently learning **System Admin, DBMS, Python**
 
@@ -28,8 +27,6 @@
 </a>
 
 ---
-
-### 🖥️ Tech Skills
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

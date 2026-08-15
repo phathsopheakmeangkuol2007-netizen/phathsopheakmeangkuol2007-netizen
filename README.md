@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning **System Admin, DBMS, Python**
 
-💬 Ask me about **Buffer Overflow, Vibe Coding, Cipher, Cyptography...**
+💬 Ask me about **Buffer Overflow, Vibe Coding, Cipher...**
 
 
 </div>

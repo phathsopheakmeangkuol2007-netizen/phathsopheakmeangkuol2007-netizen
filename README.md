@@ -43,6 +43,7 @@
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-2C5E9E?style=for-the-badge&logo=greenbone&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00843D?style=for-the-badge&logo=tenable&logoColor=white)
 ![Network Fundamentals](https://img.shields.io/badge/Network%20Fundamentals-4B0082?style=for-the-badge&logo=cisco&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM%20Workflow-4B0082?style=for-the-badge&logo=siem&logoColor=white)
 
 **Workflow**
 

@@ -11,9 +11,9 @@
 <div align="center">
 
 
-🌱 I’m currently learning **System Admin, DBMS, Python**
+🌱 I’m currently learning **System Admin, DBMS, Python, Penetration testing, Blue Team Fundamental**
 
-💬 Ask me about **Buffer Overflow, Vibe Coding, Cipher...**
+💬 Ask me about **Buffer Overflow, Vibe Coding, Cipher, CIA triad, Pentesting Workflow**
 
 
 </div>
